@@ -28,7 +28,7 @@
     "mdbreact": "^4.25.4",
     "metismenujs": "^1.1.0",
     "mkdirp": "^1.0.3",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nouislider-react": "^3.3.7",
     "react": "^16.13.0",
     "react-apexcharts": "^1.3.6",
